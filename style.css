@@ -1,0 +1,24 @@
+body{
+    background-color: coral;
+    text-align: center;
+
+}
+h1{
+    color:black;
+     display :inline-block;
+    width:100px; 
+    background-color: white;
+
+}
+button{
+    color: maroon;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+}
+
+h2
+{
+    margin-top: 90px;
+    color: maroon;
+}
